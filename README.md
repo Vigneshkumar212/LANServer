@@ -1,4 +1,4 @@
-# quickShare
+# LANServer
 
 A self-hosted file drop for your home network. Drag files in from your phone or laptop, they land on a server you control — no cloud, no accounts.
 
