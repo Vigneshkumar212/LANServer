@@ -1,0 +1,11 @@
+node_modules/
+.old/
+
+# runtime data — user uploads and server-only metadata, never commit
+app/uploads/*
+!app/uploads/.gitkeep
+app/uploads_details_server_use_only.json
+
+# misc
+.env
+*.log
